@@ -1,5 +1,6 @@
 # awesome-startup
-A curated list of resources for startups and startuppers.
+A curated and opinionated list of resources for startups and startuppers.
+I'll try to condense in few sentences the books, tools and resources that are helped and are helping me in the long way of entrepreneurship, focusing only on what really matters.
 
 ## Metrics & Measures
 ### Measure What Matters - John Doerr
